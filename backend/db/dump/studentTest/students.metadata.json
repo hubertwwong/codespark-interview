@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"studentTest.students"},{"v":{"$numberInt":"2"},"unique":true,"key":{"FirstName":{"$numberInt":"1"},"LastName":{"$numberInt":"1"}},"name":"FirstName_1_LastName_1","ns":"studentTest.students"}],"uuid":"57716f32cda647aaa0aa05425a5d6ef5"}
